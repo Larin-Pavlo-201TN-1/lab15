@@ -1,0 +1,11 @@
+D:\visual studio\prodject\lab_15\lab_15\bin\Debug\lab_15.exe.config
+D:\visual studio\prodject\lab_15\lab_15\bin\Debug\lab_15.exe
+D:\visual studio\prodject\lab_15\lab_15\bin\Debug\lab_15.pdb
+D:\visual studio\prodject\lab_15\lab_15\obj\Debug\lab_15.csproj.AssemblyReference.cache
+D:\visual studio\prodject\lab_15\lab_15\obj\Debug\lab_15.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\prodject\lab_15\lab_15\obj\Debug\lab_15.Form1.resources
+D:\visual studio\prodject\lab_15\lab_15\obj\Debug\lab_15.Properties.Resources.resources
+D:\visual studio\prodject\lab_15\lab_15\obj\Debug\lab_15.csproj.GenerateResource.cache
+D:\visual studio\prodject\lab_15\lab_15\obj\Debug\lab_15.csproj.CoreCompileInputs.cache
+D:\visual studio\prodject\lab_15\lab_15\obj\Debug\lab_15.exe
+D:\visual studio\prodject\lab_15\lab_15\obj\Debug\lab_15.pdb
